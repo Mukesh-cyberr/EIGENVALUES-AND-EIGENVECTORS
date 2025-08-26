@@ -23,7 +23,7 @@ print("Eigen values are",b,"and Eigen Vectors are",c)
 ```
 ## Output:
 
-<img width="1409" height="343" alt="MFA Exp-4" src="https://github.com/user-attachments/assets/198465b7-b04e-47ed-80e7-7de8d568fd50" />
+<img width="1920" height="1080" alt="MFA EXP--4" src="https://github.com/user-attachments/assets/4e04024f-4926-49de-8f1c-7c09b200015d" />
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
